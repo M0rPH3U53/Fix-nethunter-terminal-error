@@ -1,4 +1,4 @@
-## ❌ Origine du problème
+## ❌ Problème
 
 nhterm: **2025.4** (2025110400)
 
