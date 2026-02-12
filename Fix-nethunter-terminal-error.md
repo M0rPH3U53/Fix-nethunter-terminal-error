@@ -1,4 +1,4 @@
-\# Origine du problème
+# Origine du problème
 
 nhterm: **2025.4** (2025110400)
 
@@ -10,7 +10,7 @@ Le problème au démarrage de `nhterm` est qu’il ne trouve pas de binaire `SU`
 [android-su][ERROR] 'su' binary not found in path 
 ```
 
-\# Fix & compile 
+# Fix & compile 
 
 APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/
 
