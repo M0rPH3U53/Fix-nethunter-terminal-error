@@ -35,6 +35,11 @@ Fermer les 2 fenêtres des fichier et cliquer sur `save apk`
 <img width="1380" height="625" alt="69e73643737ad6b4f70d06ef78d2d496" src="https://github.com/user-attachments/assets/edd7c44b-96d3-44d3-91fb-0a8a1680bdfd" />
 &nbsp;
 
-Et voila vous avez l'apk sans problème de su
+# Nhterm
+Dssinstaller la version actuelle et installer l'apk
+
+Donner les droit root via l'app Magisk si celle ci ne pop pas
+
+
 
 Bien entendu cette solution n'est que temporaire en attendant une mise a jour qui corrige le sourcis
