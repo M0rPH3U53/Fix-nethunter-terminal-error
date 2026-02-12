@@ -40,6 +40,7 @@ Dssinstaller la version actuelle et installer l'apk
 
 Donner les droit root via l'app Magisk si celle ci ne pop pas
 
-
+![Screenshot_magisk](https://github.com/user-attachments/assets/4fdf9f92-1d46-4dec-a1bf-f28311ae8028)
+&nbsp;
 
 Bien entendu cette solution n'est que temporaire en attendant une mise a jour qui corrige le sourcis
