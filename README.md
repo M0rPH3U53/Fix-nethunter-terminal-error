@@ -48,7 +48,8 @@ Retablir le shell d'origine  `Settings/Generale Settings/Initial Commande` et me
 
 Shell d'origine
 
-![Screenshot_20260212_153956_NetHunter Terminal_bashrc](https://github.com/user-attachments/assets/015109a5-5e19-4a45-9064-ec8a7bc9bced)
+<img width="431" height="108" alt="Capture du 2026-02-12 16-12-37" src="https://github.com/user-attachments/assets/20d69b92-bf87-4e70-9a6b-36edea41d981" />
+
 &nbsp;
 
 ⚠️ Bien entendu cette solution n'est que temporaire en attendant une mise a jour qui corrige le sourcis
