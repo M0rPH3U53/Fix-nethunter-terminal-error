@@ -1,4 +1,4 @@
-# Origine du problème
+# ❌ Origine du problème
 
 nhterm: **2025.4** (2025110400)
 
@@ -10,7 +10,7 @@ Le problème au démarrage de `nhterm` est qu’il ne trouve pas de binaire `SU`
 [android-su][ERROR] 'su' binary not found in path 
 ```
 
-# Fix & compile 
+# ✅ Fix & compile 
 
 APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/
 
@@ -35,7 +35,7 @@ Fermer les 2 fenêtres des fichier et cliquer sur `save apk`
 <img width="1380" height="625" alt="69e73643737ad6b4f70d06ef78d2d496" src="https://github.com/user-attachments/assets/edd7c44b-96d3-44d3-91fb-0a8a1680bdfd" />
 &nbsp;
 
-# Nhterm
+# #️⃣ Nhterm
 Dssinstaller la version actuelle et installer l'apk
 
 Donner les droit root via l'app Magisk si celle ci ne pop pas
