@@ -12,7 +12,7 @@ Le problème au démarrage de `nhterm` est qu’il ne trouve pas de binaire `SU`
 
 ## ✅ Fix & compile 
 
-APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/
+APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/  
 APK d'origine: https://store.nethunter.com/repo/com.offsec.nhterm_2025110400.apk
 
 Apres avoir ouvert l'apk avec **APK Editor Studio** remplacer `/bin/su` par `/bin/bash` dans le fichier kali & enregistrer via **CTRL-S**
