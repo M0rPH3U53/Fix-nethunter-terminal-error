@@ -36,7 +36,7 @@ Fermer les 2 fenêtres des fichier et cliquer sur `save apk`
 &nbsp;
 
 # #️⃣ Nhterm
-Dssinstaller la version actuelle et installer l'apk
+Dssinstaller la version actuelle et installer votre apk
 
 Donner les droit root via l'app Magisk si celle ci ne pop pas
 
