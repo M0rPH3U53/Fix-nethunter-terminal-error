@@ -43,4 +43,14 @@ Donner les droit root via l'app Magisk si celle ci ne pop pas
 ![Screenshot_magisk](https://github.com/user-attachments/assets/4fdf9f92-1d46-4dec-a1bf-f28311ae8028)
 &nbsp;
 
+Retablir le shell d'origine  `Settings/Generale Settings/Initial Commande` et mettre source `/home/kali/.bashrc`
+
+![Screenshot_20260212_154112_NetHunter Terminal](https://github.com/user-attachments/assets/3e8862f5-5066-4f6a-8316-7ddacf2db708)
+&nbsp;
+
+Shell d'oririgine
+
+![Screenshot_20260212_153956_NetHunter Terminal_bashrc](https://github.com/user-attachments/assets/015109a5-5e19-4a45-9064-ec8a7bc9bced)
+&nbsp;
+
 Bien entendu cette solution n'est que temporaire en attendant une mise a jour qui corrige le sourcis
