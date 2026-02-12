@@ -16,13 +16,15 @@ APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/
 
 Apres avoir ouvert l'apk avec **APK Editor Studio** remplacer `/bin/su` par /`bin/bash` dans le fichier kali & enregistrer via **CTRL-S**
 
-![2b41a08788805d3e18ef2943521f3ea0.png](../_resources/2b41a08788805d3e18ef2943521f3ea0.png)
+<img width="908" height="458" alt="2b41a08788805d3e18ef2943521f3ea0" src="https://github.com/user-attachments/assets/fae35ec1-dee0-42b8-8848-92222c93e5f3" />
+
 
 &nbsp;
 
 Ensuite aller dans `android-su` et supprimer les " " de “\${SU2\[@\]}” & enregistrer via **CTRL-S**
 
-![23fb925e9afd2384273e7d82c59c24e7.png](../_resources/23fb925e9afd2384273e7d82c59c24e7.png)
+<img width="850" height="440" alt="23fb925e9afd2384273e7d82c59c24e7" src="https://github.com/user-attachments/assets/758f591c-62bf-40f0-9c57-8a1c93c78848" />
+
 
 &nbsp;
 
@@ -30,8 +32,9 @@ Fermer les 2 fenêtres des fichier et cliquer sur `save apk`
 
 &nbsp;
 
-![69e73643737ad6b4f70d06ef78d2d496.png](../_resources/69e73643737ad6b4f70d06ef78d2d496.png)
+<img width="1380" height="625" alt="69e73643737ad6b4f70d06ef78d2d496" src="https://github.com/user-attachments/assets/edd7c44b-96d3-44d3-91fb-0a8a1680bdfd" />
+
 
 Et voila vous avez l'apk sans problème de su
 
-Bien entendu cette solution n'est que temporaire en attendant une mise a jour qui corrige sourcis
+Bien entendu cette solution n'est que temporaire en attendant une mise a jour qui corrige le sourcis
