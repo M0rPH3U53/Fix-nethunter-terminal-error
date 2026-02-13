@@ -39,12 +39,14 @@ Dssinstaller la version actuelle et installer votre apk
 
 Donner les droit root via l'app Magisk si celle ci ne pop pas
 
-![Screenshot_magisk](https://github.com/user-attachments/assets/4fdf9f92-1d46-4dec-a1bf-f28311ae8028)
+<img width="524" height="438" alt="magisk" src="https://github.com/user-attachments/assets/e55ffd08-6076-4341-95a8-3c21b1e51b1b" />
+
 &nbsp;
 
 Retablir le shell d'origine  `Settings/Generale Settings/Initial Commande` et mettre  `source /home/kali/.bashrc`
 
-![Screenshot_20260212_154112_NetHunter Terminal](https://github.com/user-attachments/assets/3e8862f5-5066-4f6a-8316-7ddacf2db708)
+<img width="433" height="426" alt="nhterm" src="https://github.com/user-attachments/assets/6168cf7b-e738-4b88-b477-2b79ff23e973" />
+
 &nbsp;
 
 Shell d'origine
