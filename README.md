@@ -15,18 +15,18 @@ Le problème au démarrage de `nhterm` est qu’il ne trouve pas de binaire `SU`
 APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/  
 APK d'origine: https://store.nethunter.com/repo/com.offsec.nhterm_2025110400.apk
 
-Code android-su: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/android-su
+Code android-su: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/kali
 
-Avec **APK Editor Studio** copie/coller le code dans android-su et remplacer `su` par `bash` & enregistrer via **CTRL-S**  
+Avec **APK Editor Studio** copié/coller le code dans **kali** & remplacer `su` par `bash` & enregistrer via **CTRL-S**  
 
 <img width="908" height="458" alt="2b41a08788805d3e18ef2943521f3ea0" src="https://github.com/user-attachments/assets/fae35ec1-dee0-42b8-8848-92222c93e5f3" />
 
 
 &nbsp;
 
-Code kali: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/kali
+Code kali: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/android-su
 
-Ensuite aller dans `android-su` et copie/coller le code gitlab & enregistrer via **CTRL-S**
+Ensuite aller dans **android-su**  & copié/coller le code gitlab & enregistrer via **CTRL-S**
 
 <img width="850" height="440" alt="23fb925e9afd2384273e7d82c59c24e7" src="https://github.com/user-attachments/assets/758f591c-62bf-40f0-9c57-8a1c93c78848" />
 
