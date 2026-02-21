@@ -15,7 +15,7 @@ Le problème au démarrage de `nhterm` est qu’il ne trouve pas de binaire `SU`
 APK Editor Studio: https://qwertycube.com/apk-editor-studio/download/  
 APK d'origine: https://store.nethunter.com/repo/com.offsec.nhterm_2025110400.apk
 
-Code android-su: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/kali
+Code kali: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/kali
 
 Avec **APK Editor Studio** copié/coller le code dans **kali** & remplacer `su` par `bash` & enregistrer via **CTRL-S**  
 
@@ -24,7 +24,7 @@ Avec **APK Editor Studio** copié/coller le code dans **kali** & remplacer `su`
 
 &nbsp;
 
-Code kali: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/android-su
+Code android-su: https://gitlab.com/kalilinux/nethunter/apps/kali-nethunter-term/-/blob/main/nhterm/src/main/assets/bin_aarch64/android-su
 
 Ensuite aller dans **android-su**  & copié/coller le code gitlab & enregistrer via **CTRL-S**
 
